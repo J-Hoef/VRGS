@@ -1,0 +1,11 @@
+Populous/Black&White VR
+
+God simulator in VR
+
+Use gestures to do certain actions:
+-Both hands grabbing a planet to zoom in/out and rotation
+-1 hand grabbing a planet is rotating it
+-Index finger on the planet and use other hand to rotate it
+-Raycast for godray selection of buildings/units
+-Different gestures for casting god-spells
+-Pick up entities and view them in your hand, be able to pick them up out of that hand
